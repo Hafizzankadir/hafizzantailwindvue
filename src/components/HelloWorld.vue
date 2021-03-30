@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-   <img class="w-32 h-32 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src="../assets/img/kim.jpeg" alt="" width="384" height="512">
+   <img class="w-32 h-32 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src="../assets/img/profile.jpg" alt="" width="384" height="512">
   <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
     <blockquote>
       <p class="text-lg font-semibold">
