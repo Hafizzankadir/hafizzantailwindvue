@@ -4,17 +4,15 @@
   <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
     <blockquote>
       <p class="text-lg font-semibold">
-        “Tailwind CSS is the only framework that I've seen scale
-        on large teams. It’s easy to customize, adapts to any design,
-        and the build size is tiny.”
+        “I like to program, read book, do a lot of sport such as running and weightlifting and also eat a lot of pizza”
       </p>
     </blockquote>
     <figcaption class="font-medium">
       <div class="text-cyan-600">
-        Sarah Dayan
+        Muhammad Nur Hafizzan Bin Kadir
       </div>
       <div class="text-gray-500">
-        Staff Engineer, Algolia
+        19FTT1159
       </div>
     </figcaption>
   </div>
@@ -30,20 +28,3 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-h3 {
-  margin: 40px 0 0;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-a {
-  color: #42b983;
-}
-</style>
